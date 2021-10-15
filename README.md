@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @twosantos
+- 👀 I’m interested in games, custom keyboards and cats.
+- 🌱 I’m currently learning vue.
+- 📫 How to reach me twosantos7@gmail.com
