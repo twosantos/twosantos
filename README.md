@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @twosantos
 - 👀 I’m interested in games, custom keyboards and cats.
-- 🌱 I’m currently learning vue.
+- 🌱 I’m expanding my knowledge of HA, DDD and SOLID principles on Symfony.
 - 📫 How to reach me twosantos7@gmail.com
